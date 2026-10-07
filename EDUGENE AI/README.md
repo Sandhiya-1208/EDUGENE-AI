@@ -1,6 +1,6 @@
 # EduGenie AI
 
-AI-powered learning assistant. (Inga 1-2 line la project enna panudhu nu ezhudhu)
+AI-powered learning assistant.
 
 ## Team Details
 
